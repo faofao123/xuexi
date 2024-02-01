@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "xuexi",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "cengxubianlierchashu::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cengxubianlierchashu-Debug-dbd70656979d56f4831b.json",
+					"name" : "cengxubianlierchashu",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "shicuo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-shicuo-Debug-0de336138c282cfadb0d.json",
+					"name" : "shicuo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "xuexi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-xuexi-Debug-a017cd7fdf14d543f012.json",
+					"name" : "xuexi",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/fyz/CLionProjects/xuexi/cmake-build-debug",
+		"source" : "/Users/fyz/CLionProjects/xuexi"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

@@ -1,0 +1,5 @@
+/Users/fyz/CLionProjects/xuexi/cmake-build-debug/CMakeFiles/xuexi.dir
+/Users/fyz/CLionProjects/xuexi/cmake-build-debug/CMakeFiles/cengxubianlierchashu.dir
+/Users/fyz/CLionProjects/xuexi/cmake-build-debug/CMakeFiles/shicuo.dir
+/Users/fyz/CLionProjects/xuexi/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/fyz/CLionProjects/xuexi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
